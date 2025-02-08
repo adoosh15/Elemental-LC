@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-family: 'Arvo', serif;
+}
+h2{
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-size: 100;
+}
+h3{
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-size: 100;
+}
+body{
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-weight: bold;
+    font-size: larger;
+}
+button{
+    background-color: #FF8A80;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 29.5px;
+    font-family: 'Arvo', serif;
+}
+    button:hover {
+        background-color: #FF8A80;
+        border-radius: 30px;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+
+footer{
+    font-weight: bolder;
+    font-family: 'Arvo', serif;
+}
